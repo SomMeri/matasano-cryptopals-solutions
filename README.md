@@ -1,6 +1,6 @@
 My solutions to Matasano [Cryptopals](http://cryptopals.com/) challenge. The blog post about the challenges is on [my blog](http://meri-stuff.blogspot.sk/2013/07/matasano-crypto-challenge.html).
 
-All solutions to exercises are stored inside the [`org.meri.matasano`](https://github.com/SomMeri/matasano-cryptopals-solutions/tree/master/src/main/java/org/meri/matasano) package in classes named `SetX` where `X` is the exercises set number. Solutions are run from [unit tests](https://github.com/SomMeri/matasano-cryptopals-solutions/tree/master/src/test/java/org/meri/matasano). Each set of exercises has its own `setX` directory and unit test named `SetXTest.
+All solutions to exercises are stored inside the [`org.meri.matasano`](https://github.com/SomMeri/matasano-cryptopals-solutions/tree/master/src/main/java/org/meri/matasano) package in classes named `SetX` where `X` is the exercises set number. Solutions are run from [unit tests](https://github.com/SomMeri/matasano-cryptopals-solutions/tree/master/src/test/java/org/meri/matasano). Each set of exercises has its own `setX` directory and unit test named `SetXTest`.
 
 Set 1:
 * Solution class: src\main\java\org\meri\matasano\Set1.java
