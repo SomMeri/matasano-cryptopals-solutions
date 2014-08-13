@@ -1,6 +1,4 @@
-Cryptopals is a collection of 48 exercises that demonstrate attacks on real world ciphers and protocols. Exercises exploit both badly designed systems and subtle implementation bugs in theoretically rock solid crypto. The exercises and official solutions are now publically available on their  [official site](http://cryptopals.com/).
-
-My write up about doing them is on [my blog](http://meri-stuff.blogspot.sk/2013/07/matasano-crypto-challenge.html).
+Cryptopals is a collection of 48 exercises that demonstrate attacks on real world ciphers and protocols. Exercises exploit both badly designed systems and subtle implementation bugs in theoretically rock solid crypto. The exercises and official solutions are now publically available on their  [official site](http://cryptopals.com/), my write up about doing them is on [my blog](http://meri-stuff.blogspot.sk/2013/07/matasano-crypto-challenge.html).
 
 This repository contains my solutions to those exercises. All solutions to exercises are stored inside the [`org.meri.matasano`](https://github.com/SomMeri/matasano-cryptopals-solutions/tree/master/src/main/java/org/meri/matasano) package in classes named `SetX` where `X` is the exercises set number. Solutions are run from [unit tests](https://github.com/SomMeri/matasano-cryptopals-solutions/tree/master/src/test/java/org/meri/matasano). Each set of exercises has its own `setX` directory and unit test named `SetXTest`.
 
