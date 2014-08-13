@@ -5,8 +5,8 @@ This repository contains my solutions to those exercises. All solutions to exerc
 Links to solutions as they were when I finished them.
 
 Set 1:
-* Solution class: [src\main\java\org\meri\matasano\Set1.java](https://github.com/SomMeri/matasano-cryptopals-solutions/blob/c487d309f774a626d31dc97fc9d244e6e7b8087e/src/main/java/org/meri/matasano/Set1.java)
-* Test case: [src\test\java\org\meri\matasano\set1\Set1Test.java](https://github.com/SomMeri/matasano-cryptopals-solutions/blob/ba8e47b3264d8569b91e61d83b73c1f155304af4/src/test/java/org/meri/matasano/set1/Set1Test.java)
+* Solution class: [`src\main\java\org\meri\matasano\Set1.java`](https://github.com/SomMeri/matasano-cryptopals-solutions/blob/c487d309f774a626d31dc97fc9d244e6e7b8087e/src/main/java/org/meri/matasano/Set1.java)
+* Test case: [`src\test\java\org\meri\matasano\set1\Set1Test.java`](https://github.com/SomMeri/matasano-cryptopals-solutions/blob/ba8e47b3264d8569b91e61d83b73c1f155304af4/src/test/java/org/meri/matasano/set1/Set1Test.java)
 
 Set 2:
 * Solution class: [src\main\java\org\meri\matasano\Set2.java](https://github.com/SomMeri/matasano-cryptopals-solutions/blob/c487d309f774a626d31dc97fc9d244e6e7b8087e/src/main/java/org/meri/matasano/Set2.java)
