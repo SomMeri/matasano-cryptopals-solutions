@@ -1,4 +1,5 @@
-My solutions to Matasano [Cryptopals](http://cryptopals.com/) challenge. The blog post about the challenges is on [my blog](http://meri-stuff.blogspot.sk/2013/07/matasano-crypto-challenge.html).
+My solutions to Matasano cryptopals challenge. The exercises and official solutions are now publically available on their  [official site](http://cryptopals.com/). Cryptopals is a collection of 48 exercises that demonstrate attacks on real world ciphers and protocols. Exercises exploit both badly designed systems and subtle implementation bugs in theoretically rock solid crypto. I described my experience of doing them in [my blog](http://meri-stuff.blogspot.sk/2013/07/matasano-crypto-challenge.html)..
+
 
 All solutions to exercises are stored inside the [`org.meri.matasano`](https://github.com/SomMeri/matasano-cryptopals-solutions/tree/master/src/main/java/org/meri/matasano) package in classes named `SetX` where `X` is the exercises set number. Solutions are run from [unit tests](https://github.com/SomMeri/matasano-cryptopals-solutions/tree/master/src/test/java/org/meri/matasano). Each set of exercises has its own `setX` directory and unit test named `SetXTest`.
 
