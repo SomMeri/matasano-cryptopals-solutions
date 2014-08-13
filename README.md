@@ -1,7 +1,4 @@
-matasano-cryptopals-solutions
-=============================
-
-My solutions to Matasano [Cryptopals challenge](http://cryptopals.com/). 
+My solutions to Matasano [Cryptopals](http://cryptopals.com/) challenge. The blog post about the challenges is on [my blog](http://meri-stuff.blogspot.sk/2013/07/matasano-crypto-challenge.html).
 
 All solutions to exercises are stored inside the `org.meri.matasano` package in classes named `SetX`  `X` is the exercises set number. Solutions are run from unit tests. Each set of exercises has a unit test named `SetXTest.
 
