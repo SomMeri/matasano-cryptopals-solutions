@@ -102,6 +102,8 @@ public class Set2 {
   }
   
   /** Exercise 14 
+   * WARNING - this solution is based on incorrect reading of the challenge. See issue #1 on this repository.
+   * ISSUE: https://github.com/SomMeri/matasano-cryptopals-solutions/issues/1
    * 
    * "What's harder about doing this?"
    * 
